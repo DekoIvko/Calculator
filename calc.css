@@ -1,0 +1,55 @@
+body{
+        background-color: slategrey;
+}
+#background{
+     width:270px;
+    height:330px;
+    background:rebeccapurple;
+    margin:50px auto;
+
+}
+#result {
+    display:block;
+    font-family: sans-serif;
+    width:220px;
+    height:40px;
+    margin:20px auto;
+    text-align: right;
+    border:0;
+    background:powderblue;
+    color:#fff;
+    padding-top:20px;
+    font-size:40px;
+    margin-left: 25px;
+    outline: none;
+    overflow: hidden;
+    letter-spacing: 4px;
+    position: relative;
+    top:10px;
+}
+#result:hover {
+    
+    cursor: text;
+    
+}
+#button {
+        margin: auto;
+        width: 65px;
+        height: 55px;
+    border:5;
+    color:blue;
+}
+
+.rows {
+        margin: auto;
+    width:300px;
+    margin-top:10px;
+}
+.brisi{
+        background-color: rosybrown;
+}
+.pola{
+    width: 30px;
+    height: 55px;
+    color: blue;
+}
